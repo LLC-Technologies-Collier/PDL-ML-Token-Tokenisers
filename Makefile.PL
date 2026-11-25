@@ -8,7 +8,7 @@ WriteMakefile(
     AUTHOR             => q{C.J. Collier <cjac@google.com>},
     VERSION_FROM       => 'lib/PDL/ML/Token/Tokenisers.pm',
     ABSTRACT_FROM      => 'lib/PDL/ML/Token/Tokenisers.pm',
-    LICENSE            => 'apache_2_0',
+    LICENSE            => 'perl_5',
     MIN_PERL_VERSION   => '5.010',
     CONFIGURE_REQUIRES => { 'ExtUtils::MakeMaker' => '0' },
     TEST_REQUIRES      => { 'Test::More' => '0.88', 'File::Temp' => '0' },
